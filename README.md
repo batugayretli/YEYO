@@ -1,8 +1,13 @@
 // Project          : YEYO
+
 // Version          : ALPHA v0.48
+
 // Author           : Batuhan Gayretli
+
 // Commencement Date: 30.05.2014
+
 // Last Update      : 08.06.2014
+
 
 /*
 EQUIPMENT:
